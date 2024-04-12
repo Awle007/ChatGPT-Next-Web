@@ -377,7 +377,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗（当前模型为ChatGPT，如需使用Gemini请点这里）" <a href="https://gemini.xshyun.top/">这里</a>",
+    BotHello: "有什么可以帮你的吗（当前模型为ChatGPT，如需使用Gemini请点[这里](/https://gemini.xshyun.top)）" ,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
