@@ -305,7 +305,7 @@ export function SideBar(props: { className?: string }) {
               </Link>
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href={https://www.xshyun.top} target="_blank" rel="noopener noreferrer">
+              <a href={https://www.xshyun.top/} target="_blank" rel="noopener noreferrer">
                 <IconButton
                   aria={Locale.Export.MessageFromChatGPT}
                   icon={<GithubIcon />}
